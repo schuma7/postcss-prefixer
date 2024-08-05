@@ -30,11 +30,6 @@
   "jest": {
     "testEnvironment": "node"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm test"
-    }
-  },
   "keywords": [
     "css",
     "postcss",
