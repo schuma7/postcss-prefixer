@@ -84,3 +84,11 @@ a:not([href]):not([class]):hover {
   color: inherit;
   text-decoration: none;
 }
+
+.prefix-bg-\[rgba\(255\2c 255\2c 255\2c 0\.3\)\] {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.prefix-grid-cols-\[repeat\(auto-fill\2c minmax\(var\(--_min\)\2c var\(--_min\)\)\)\] {
+  grid-template-columns: repeat(auto-fill, minmax(var(--_min), var(--_min)));
+}
