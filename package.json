@@ -7,7 +7,7 @@
     "node": "^10 || ^12 || >=14"
   },
   "dependencies": {
-    "css-selector-tokenizer": "^0.7.2"
+    "css-selector-tokenizer": "^0.8.0"
   },
   "peerDependencies": {
     "postcss": "^8.0.0"
